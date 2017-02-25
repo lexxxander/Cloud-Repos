@@ -8,7 +8,8 @@ Technologies:
 
 
 How to run Qudini Play Web Service:
-- Deploy war file to tomcat server
+- Deploy war file to tomcat server. war location, https://github.com/lexxxander/Cloud-Repos/blob/master/qudiniplaywsapi/target/qudiniplaywsapi.war
+
 
 Web Service API documentation:
 - Method: sort
