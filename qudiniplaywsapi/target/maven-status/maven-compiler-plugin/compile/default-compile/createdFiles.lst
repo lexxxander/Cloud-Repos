@@ -1,0 +1,5 @@
+CustomerServiceApplication.class
+com\qudini\util\JsonJodaDateTimeSerializer.class
+com\qudini\ws\CustomerController.class
+com\qudini\ws\CustomerController$1.class
+com\qudini\bean\Customer.class
